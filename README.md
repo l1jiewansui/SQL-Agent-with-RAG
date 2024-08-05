@@ -93,15 +93,15 @@ SQL Agent with RAG
 
 ### 性能指标、提升等对比信息
 
-![output](C:\Users\lenovo\Desktop\output.png)
+![output](https://pic.imgdb.cn/item/66b08847d9c307b7e93f8b47.png)
 
-![image-20240805120750515](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240805120750515.png)
+![image-20240805120750515](https://pic.imgdb.cn/item/66b08837d9c307b7e93f7c5a.png)
 
 ### 运行结果记录或截图
 
-![image-20240805120651474](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240805120651474.png)
+![image-20240805120651474](https://pic.imgdb.cn/item/66b087fed9c307b7e93f4a02.png)
 
-![image-20240805120714817](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240805120714817.png)
+![image-20240805120714817](https://pic.imgdb.cn/item/66b0881bd9c307b7e93f61ce.png)
 
 ### 对未来应用和推广的展望
 
@@ -109,6 +109,6 @@ SQL Agent with RAG
 
 ## 9. 支持材料（可选）
 
-- **Github链接**：待填写
-- **PPT附件**：待填写
-- **演示视频**：待填写
+- **Github链接**：[l1jiewansui/SQL-Agent-with-RAG: This project combines RAG technology and large language models to generate accurate SQL queries by retrieving relevant domain knowledge and incorporating the user's natural language queries. (github.com)](https://github.com/l1jiewansui/SQL-Agent-with-RAG)
+- **PPT附件**：附件中
+- **演示视频**：附件中 
