@@ -1,0 +1,14 @@
+Table Structure,Query,Generated SQL,flag,username,timestamp
+"'CREATE TABLE users (
+    id INT PRIMARY KEY,
+    name VARCHAR(100),
+    age INT,
+    email VARCHAR(100)
+);",获取所有用户的名称和年龄,,,,2024-07-25 15:35:11.112061
+"'CREATE TABLE users (
+    id INT PRIMARY KEY,
+    name VARCHAR(100),
+    age INT,
+    email VARCHAR(100)
+);
+",Get the names and ages of all users,,,,2024-07-25 16:11:16.082166

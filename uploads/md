@@ -1,0 +1,17 @@
+Title: Financial Transactions and Customer Details
+
+Database Schema:
+- Customer Table:
+  - customer_id (INT): Unique identifier for each customer.
+  - customer_name (VARCHAR): Name of the customer.
+  - customer_type (VARCHAR): Type of customer (e.g., 'VIP', 'Regular').
+
+- Transaction Table:
+  - transaction_id (INT): Unique identifier for each transaction.
+  - customer_id (INT): Identifier for the customer making the transaction.
+  - amount (DECIMAL): The amount of the transaction.
+  - transaction_date (DATE): The date of the transaction.
+
+Business Rules:
+1. High-value transactions are defined as transactions above $10,000.
+2. VIP customers are identified as those with a cumulative transaction amount over $100,000 in the past year.
