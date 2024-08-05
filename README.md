@@ -99,7 +99,9 @@ SQL Agent with RAG
 
 ### 运行结果记录或截图
 
+![image-20240805120651474](https://pic.imgdb.cn/item/66b087fed9c307b7e93f4a02.png)
 
+![image-20240805120714817](https://pic.imgdb.cn/item/66b0881bd9c307b7e93f61ce.png)
 
 ### 对未来应用和推广的展望
 
