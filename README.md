@@ -107,8 +107,49 @@ SQL Agent with RAG
 
 未来可以进一步优化模型性能，支持更多数据库和复杂查询场景。并且在生成sql的基础上，直接在数据库上运行并可视化结果。
 
-## 9. 支持材料（可选）
+## 9. 程序运行指引
+
+### 前端运行
+
+1. **安装依赖**：运行以下命令安装依赖：
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+2. **启动Gradio界面**： 在 `gradio_ui` 目录下，运行以下命令启动前端界面：
+
+   ```
+   python gradio_ui/ui.py
+   ```
+
+   这将启动一个Web界面，用户可以通过上传文件和输入查询来生成SQL。
+
+### 后端运行
+
+1. **安装依赖**： 运行以下命令安装依赖：
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+2. **启动Flask服务**： 在 `backend` 目录下，运行以下命令启动Flask后端服务：
+
+   ```
+   python backend/run.py
+   ```
+
+3. **上传文档**：
+
+   - 通过前端界面上传PDF、Markdown或文本文件。
+   - 文件上传后，系统会自动处理并存储文件中的结构化信息。
+
+4. **生成SQL查询**：
+
+   - 在前端界面输入表结构和自然语言查询，系统将生成对应的SQL查询语句。
+
+## 10. 支持材料（可选）
 
 - **Github链接**：[l1jiewansui/SQL-Agent-with-RAG: This project combines RAG technology and large language models to generate accurate SQL queries by retrieving relevant domain knowledge and incorporating the user's natural language queries. (github.com)](https://github.com/l1jiewansui/SQL-Agent-with-RAG)
 - **PPT附件**：附件中
-- **演示视频**：附件中 
+- **演示视频**：附件中
