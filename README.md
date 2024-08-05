@@ -99,7 +99,7 @@ SQL Agent with RAG
 
 ### 运行结果记录或截图
 
-![image-20240805120651474](https://imgse.com/i/pkv2suF)
+![image-20240805120651474](https://s21.ax1x.com/2024/08/05/pkv2suF.png)
 
 
 ![image-20240805120714817](https://pic.imgdb.cn/item/66b0881bd9c307b7e93f61ce.png)
