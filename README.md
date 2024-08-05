@@ -112,4 +112,3 @@ SQL Agent with RAG
 - **Github链接**：[l1jiewansui/SQL-Agent-with-RAG: This project combines RAG technology and large language models to generate accurate SQL queries by retrieving relevant domain knowledge and incorporating the user's natural language queries. (github.com)](https://github.com/l1jiewansui/SQL-Agent-with-RAG)
 - **PPT附件**：附件中
 - **演示视频**：附件中 
-![1](https://pic.imgdb.cn/item/66b087fed9c307b7e93f4a02.png)
