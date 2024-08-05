@@ -102,7 +102,7 @@ SQL Agent with RAG
 ![image-20240805120651474](https://s21.ax1x.com/2024/08/05/pkv2suF.png)
 
 
-![image-20240805120714817](https://pic.imgdb.cn/item/66b0881bd9c307b7e93f61ce.png)
+![image-20240805120714817](https://s21.ax1x.com/2024/08/05/pkv26HJ.png)
 
 ### 对未来应用和推广的展望
 
