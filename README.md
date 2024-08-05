@@ -95,13 +95,12 @@ SQL Agent with RAG
 
 ![output](https://pic.imgdb.cn/item/66b08847d9c307b7e93f8b47.png)
 
-
+![image-20240805120750515](https://pic.imgdb.cn/item/66b08837d9c307b7e93f7c5a.png)
 
 ### 运行结果记录或截图
 
 ![image-20240805120651474](https://pic.imgdb.cn/item/66b087fed9c307b7e93f4a02.png)
 
-![image-20240805120750515](https://pic.imgdb.cn/item/66b08837d9c307b7e93f7c5a.png)
 
 ![image-20240805120714817](https://pic.imgdb.cn/item/66b0881bd9c307b7e93f61ce.png)
 
